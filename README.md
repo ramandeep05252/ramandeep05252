@@ -29,6 +29,22 @@ As a **Masters of Business Analytics** student, I bring a blend of analytical ex
 - Conducted regular system checks and updates to ensure optimal performance and reliability.
 - Provided training and support to drivers and fleet managers on the effective use of the Guardian system.
 
+## Skills and Technical Capabilities
+
+**Data Science**: Data wrangling (R, SQL, Spreadsheet), Machine Learning, Statistical Modelling, RapidMiner, and Data Modelling.
+
+**Data Visualisation**: Power BI, Tableau, Excel.
+
+**Project Management**: Agile, Traditional, and Hybrid methodologies.
+
+**DevOps**: Continuous integration/continuous deployment (CI/CD), version control (Git, GitHub), automation tools (Jenkins, Docker), and cloud platforms (AWS, Azure, Google Cloud).
+
+**Quantitative**: Algorithms and Analysis, Practical Business Analytics, Machine Learning, Discrete Mathematics, AI, and Practical Statistics.
+
+**Interpersonal Skills**: Conflict Resolution ⚖️, Strategic Thinking 🧠, Time Management 🕐, Problem Solving 🔍, Leadership 👑, Creativity 🎨, Collaboration 🤝
+
+**Financial Analysis**: Proficient in evaluating financial data, forecasting, and budgeting.
+
 ---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) and explore my repositories to see some of my work!
