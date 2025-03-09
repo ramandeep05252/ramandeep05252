@@ -8,9 +8,11 @@ As a **Masters of Business Analytics** student, I bring a blend of analytical ex
 
 **EV Charging Stations Strategy**: Analysed EV charging behaviours using Tableau to optimize infrastructure and encourage adoption based on charging patterns, locality, and fuel savings.
 
-*VicCrashAnalytics* - Blackspot Analysis: Utilised Python and worked on Logistic Regression (92% accuracy) to predict accident-prone black-spots, delivering actionable recommendations for traffic safety improvements.
-*Foodie-Bay* – Restaurant Ratings Prediction: Developed predictive models with Python, using machine learning to analyse restaurant ratings and provide personalised recommendations and marketing strategies.
-*Theme Park Review Analysis*: Analysed 35,000 customer reviews using Python to generate insights on visitor behavior, sentiment, and regional preferences, enhancing customer experience.
+*V*icCrashAnalytics** - Blackspot Analysis: Utilised Python and worked on Logistic Regression (92% accuracy) to predict accident-prone black-spots, delivering actionable recommendations for traffic safety improvements.
+
+**Foodie-Bay** – Restaurant Ratings Prediction: Developed predictive models with Python, using machine learning to analyse restaurant ratings and provide personalised recommendations and marketing strategies.
+
+**Theme Park Review Analysis**: Analysed 35,000 customer reviews using Python to generate insights on visitor behavior, sentiment, and regional preferences, enhancing customer experience.
 
 
 ## Skills and Technical Capabilities
