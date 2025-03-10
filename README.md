@@ -21,3 +21,4 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/ramandeeprkaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ramandeeprkaur" height="30" width="40" /></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/ramandeep05252/ramandeep05252/output/snake.svg" alt="Snake animation" />
