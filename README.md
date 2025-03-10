@@ -1,52 +1,28 @@
-# Hi there, I'm Ramandeep Kaur 👋
+<h1 align="center">Hi 👋, I'm Ramandeep Kaur</h1>
+<h3 align="center">A passionate</h3>
 
-## Professional Summary
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramandeep05252&label=Profile%20views&color=0e75b6&style=flat" alt="ramandeep05252" /> </p>
 
-As a **Masters of Business Analytics** student, I bring a blend of analytical expertise and a genuine passion for turning raw data into actionable insights. With a knack for unraveling complex patterns and trends, I thrive on the challenge of optimizing business strategies and operations through informed decision-making and quantitative analysis. Proficient in **Python, R, SQL**, and adept at **data visualization**, I'm eager to apply my skills in a real-world setting where I can collaborate with diverse teams to drive meaningful outcomes. I'm excited to embark on a journey where I can contribute my knowledge and learn from industry experts, all while making a tangible impact.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramandeep05252" alt="ramandeep05252" /></a> </p>
 
-## Projects
+- 🌱 I’m currently learning **Agile, DevOps, and advanced machine learning models**
 
-**EV Charging Stations Strategy**: Analysed EV charging behaviours using Tableau to optimize infrastructure and encourage adoption based on charging patterns, locality, and fuel savings.
+- 👯 I’m looking to collaborate on **Data Analytics and Machine Learning Projects**
 
-**VicCrashAnalytics** - Blackspot Analysis: Utilised Python and worked on Logistic Regression (92% accuracy) to predict accident-prone black-spots, delivering actionable recommendations for traffic safety improvements.
+- 🤝 I’m looking for help with **Advanced ML techniques and cloud-based analytics solutions**
 
-**Foodie-Bay** – Restaurant Ratings Prediction: Developed predictive models with Python, using machine learning to analyse restaurant ratings and provide personalised recommendations and marketing strategies.
+- 💬 Ask me about **Data analytics**
 
-**Theme Park Review Analysis**: Analysed 35,000 customer reviews using Python to generate insights on visitor behavior, sentiment, and regional preferences, enhancing customer experience.
+- 📫 How to reach me **ramandeep05252@gmail.com**
 
+- 📄 Know about my experiences [file:///Users/ramandeepkaur/Downloads/Resume_GradG.pdf%20(2).pdf](file:///Users/ramandeepkaur/Downloads/Resume_GradG.pdf%20(2).pdf)
 
-## Skills and Technical Capabilities
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ramandeeprkaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ramandeeprkaur" height="30" width="40" /></a>
+</p>
 
-**Data Science**: Data wrangling (R, SQL, Spreadsheet), Machine Learning, Statistical Modelling, RapidMiner, and Data Modelling.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-**Data Visualisation**: Power BI, Tableau, Excel.
-
-**Project Management**: Agile, Traditional, and Hybrid methodologies.
-
-**DevOps**: Continuous integration/continuous deployment (CI/CD), version control (Git, GitHub), automation tools (Jenkins, Docker), and cloud platforms (AWS, Azure, Google Cloud).
-
-**Quantitative**: Algorithms and Analysis, Practical Business Analytics, Machine Learning, Discrete Mathematics, AI, and Practical Statistics.
-
-**Interpersonal Skills**: Conflict Resolution ⚖️, Strategic Thinking 🧠, Time Management 🕐, Problem Solving 🔍, Leadership 👑, Creativity 🎨, Collaboration 🤝
-
-**Financial Analysis**: Proficient in evaluating financial data, forecasting, and budgeting.
-
----
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) and explore my repositories to see some of my work!
-
-
-<!--
-**ramandeep05252/ramandeep05252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramandeep05252&show_icons=true&locale=en" alt="ramandeep05252" /></p>
