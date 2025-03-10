@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **ramandeep05252@gmail.com**
 
-- 📄 Know about my experiences [file:///Users/ramandeepkaur/Downloads/Resume_GradG.pdf%20(2).pdf](file:///Users/ramandeepkaur/Downloads/Resume_GradG.pdf%20(2).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
